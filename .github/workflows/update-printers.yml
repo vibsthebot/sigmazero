@@ -37,7 +37,7 @@ jobs:
         git config --global user.email "github-actions@github.com"
         
         # Check if there are any changes
-        git add .
+        git add -A
         git diff --cached --exit-code || (
           git commit -m "Auto update printer files" &&
           git push origin main  # Replace 'main' with the appropriate branch if needed
