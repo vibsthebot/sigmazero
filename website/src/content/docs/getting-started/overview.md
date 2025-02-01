@@ -4,6 +4,19 @@ description: A guide in my new Starlight docs site.
 ---
 
 # Overview
+Welcome to launchpad (name pending). Here's how you
+
+Here's how everytihng is going to work:
+
+## 1. You design your own 3D printer
+Come up with a 3D printer design!
+
+
+## 2. You submit a BOM (Bill of Materials)
+Submit a BOM in CSV format, complete with links of what you need to get.
+
+## 3. You
+
 Want to get started? Make sure you have the following:
 - A 3D printer
 

@@ -1,0 +1,44 @@
+name: Update Printers
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # Runs every 30 minutes
+
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-printers:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python environment
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'  # Specify the Python version to use
+
+    - name: Install dependencies in doc_script folder
+      run: |
+        cd doc_update_script  # Change to the doc_script folder
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt  # Ensure this file is in the doc_script folder
+
+    - name: Run the script to update printers
+      run: |
+        cd doc_script  # Change to the doc_script folder
+        python copy-printer-files.py  # Adjust path if necessary
+
+    - name: Check for file changes and commit if needed
+      run: |
+        cd doc_script  # Change to the doc_script folder
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+        
+        # Check if there are any changes
+        git add .
+        git diff --cached --exit-code || (
+          git commit -m "Auto update printer files" &&
+          git push origin main  # Replace 'main' with the appropriate branch if needed
+        )

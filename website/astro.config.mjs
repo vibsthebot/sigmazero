@@ -12,16 +12,17 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Getting Started',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'Overview', slug: 'getting-started/overview' },
+						{ label: 'FAQ', slug: 'getting-started/faq' },
 					],
 				},
-				// {
-				// 	label: 'Reference',
-				// 	autogenerate: { directory: 'reference' },
-				// },
+				{
+					label: 'Printers',
+					autogenerate: { directory: 'printers' },
+				},
 			],
 		}),
 	],
