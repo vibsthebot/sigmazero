@@ -28,3 +28,9 @@ EOS 3D:
   description: "A cheap cantilever 3D printer with full self calibration capabilities."
   repository: "https://raw.githubusercontent.com/AdamTuraj/EOS-3D/refs/heads/main/JOURNAL.md"
   file_name: eos3d.md
+  
+Aniprinter:
+  title: "Aniprinter"
+  description: "A cute anime 3d printer UwU."
+  repository: "https://raw.githubusercontent.com/cheyao/aniprinter/refs/heads/main/JOURNAL.md"
+  file_name: aniprinter.md
