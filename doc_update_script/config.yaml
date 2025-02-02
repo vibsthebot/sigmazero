@@ -6,6 +6,6 @@ Infinite Benchy Theorem:
 Radeon:
   title: "Radeon"
   description: "A budget-friendly printer designed around CoreXY kinematics and linear rails."
-  repository: "https://raw.githubusercontact.com/pmnlla/radeon/refs/heads/master/docs-head.md"
+  repository: "https://raw.githubusercontent.com/pmnlla/radeon/refs/heads/master/docs-head.md"
   file_name: pmnlla-radeon.md
 ## Add your printers below
