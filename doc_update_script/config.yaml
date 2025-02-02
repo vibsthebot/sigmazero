@@ -52,3 +52,9 @@ Aniprinter:
   description: "A cute anime 3d printer UwU."
   repository: "https://raw.githubusercontent.com/cheyao/aniprinter/refs/heads/main/JOURNAL.md"
   file_name: aniprinter.md
+
+Anixus Vex:
+  title: "Anixus Vex"
+  description: "A powerful, fast, precise CoreXY 3D printer aimed at intense speed"
+  repository: "https://raw.githubusercontent.com/invictus-anic3tus/anixus-vex/refs/heads/main/journal.md"
+  file_name: anixus_vex.md
