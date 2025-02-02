@@ -28,3 +28,9 @@ EOS 3D:
   description: "A cheap cantilever 3D printer with full self calibration capabilities."
   repository: "https://raw.githubusercontent.com/AdamTuraj/EOS-3D/refs/heads/main/JOURNAL.md"
   file_name: eos3d.md
+
+Mu Draconis:
+  title: "Mu Draconis"
+  description: "A polar 3d printer with modern hardware, but still not the most practical"
+  repository: "https://raw.githubusercontent.com/WilliamPrime/Mu-Draconis/refs/heads/main/design.md"
+  file_name: mu-draconis.md
