@@ -1,3 +1,5 @@
+## Add your printers below
+
 Infinite Benchy Theorem:
   title: "Infinite Benchy Theorem"
   description: "A belted, enclosed 3D printer designed for 24/7 3D printing"
@@ -21,4 +23,8 @@ Quantum One:
   repository: "https://raw.githubusercontent.com/Echo-Labs-Development/Quantum-One/main/plan.md"
   file_name: quantum-one.md
 
-## Add your printers below
+EOS 3D:
+  title: "EOS 3D"
+  description: "A cheap cantilever 3D printer with full self calibration capabilities."
+  repository: "https://raw.githubusercontent.com/AdamTuraj/EOS-3D/refs/heads/main/JOURNAL.md"
+  file_name: JOURNAL.md
