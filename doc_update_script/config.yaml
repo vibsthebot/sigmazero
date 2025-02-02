@@ -8,4 +8,11 @@ Radeon:
   description: "A budget-friendly printer designed around CoreXY kinematics and linear rails."
   repository: "https://raw.githubusercontent.com/pmnlla/radeon/refs/heads/master/docs-head.md"
   file_name: pmnlla-radeon.md
+
+3dSpire:
+  title: "3d Spire"
+  description: "A Core XY printer with linear rails"
+  repository: "https://raw.githubusercontent.com/JeffreyWangDev/3dspire/refs/heads/main/design.md"
+  file_name: spire.md
+
 ## Add your printers below
