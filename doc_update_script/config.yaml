@@ -28,3 +28,9 @@ EOS 3D:
   description: "A cheap cantilever 3D printer with full self calibration capabilities."
   repository: "https://raw.githubusercontent.com/AdamTuraj/EOS-3D/refs/heads/main/JOURNAL.md"
   file_name: eos3d.md
+
+Meteroid:
+  title: "Meteoroid"
+  description: "Production-ready 3d printer based on a Ender 5 frame, with multifunction tool changing. "
+  repository: "https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Changelog.md"
+  file_name: Meteoroid.md
