@@ -8,9 +8,17 @@ Radeon:
   description: "A budget-friendly printer designed around CoreXY kinematics and linear rails."
   repository: "https://raw.githubusercontent.com/pmnlla/radeon/refs/heads/master/docs-head.md"
   file_name: pmnlla-radeon.md
+
+3dSpire:
+  title: "3d Spire"
+  description: "A Core XY printer with linear rails"
+  repository: "https://raw.githubusercontent.com/JeffreyWangDev/3dspire/refs/heads/main/design.md"
+  file_name: spire.md
+  
 Quantum One:
   title: "Quantum One"
   description: "An affordable prototyping machine that looks good, performs well, is affordable, and you can build yourself"
   repository: "https://raw.githubusercontent.com/Echo-Labs-Development/Quantum-One/main/plan.md"
   file_name: quantum-one.md
+
 ## Add your printers below
