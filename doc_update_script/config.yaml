@@ -29,6 +29,12 @@ EOS 3D:
   repository: "https://raw.githubusercontent.com/AdamTuraj/EOS-3D/refs/heads/main/JOURNAL.md"
   file_name: eos3d.md
 
+Meteroid:
+  title: "Meteoroid"
+  description: "Production-ready 3d printer based on a Ender 5 frame, with multifunction tool changing. "
+  repository: "https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Changelog.md"
+  file_name: Meteoroid.md
+
 Mu Draconis:
   title: "Mu Draconis"
   description: "A polar 3d printer with modern hardware, but still not the most practical"
