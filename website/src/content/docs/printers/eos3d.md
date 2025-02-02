@@ -27,7 +27,13 @@ Although I have extensive experience working with 3D printers, this is my first 
 
 The name of this project, **EOS 3D**, is inspired by the Greek goddess of dawn, Eos. Dawn symbolizes new beginnings, reflecting a personal milestone in my projects and an entry point for tinkerers.
 
-## BOM
+## Day 1 (February 1st, 2025)
+
+Hours worked: **8**
+
+Total hours on project: **8**
+
+### BOM Selection
 
 Creating the **Bill of Materials (BOM)** required balancing cost-effectiveness with performance and safety. While selecting parts, I took into account the following:
 
@@ -41,3 +47,17 @@ Creating the **Bill of Materials (BOM)** required balancing cost-effectiveness w
 Compiling and refining the BOM took approximately **four hours**.
 
 **[BOM Link](https://docs.google.com/spreadsheets/d/1bcc6GYku32MK7iQRG4SbK_M0EsOTyS6UKOEk-3bwc5s)**
+
+### Toolhead Development
+
+With the BOM completed, I decided to tackle the printer's tool head first, as it serves as an "anchor point" for the build.
+
+I began by modelling the X-axis rods and bearings to establish clearance constraints between the toolhead and the rods.
+
+Next, I imported the CAD models for the Sherpa Mini extruder and the E3D V6 hotend, then started designing a mounting solution. I opted for a clamping mechanism for the hotend, as shown in the image below:
+
+![Hotend clamping mechanism](https://cloud-6ea58jaj9-hack-club-bot.vercel.app/0image.png)
+
+By the end of the day, I refined the mounting system and securely integrated the Sherpa Mini with the mount. Below is the final design on day 1 (ignore the mesh issues on the Sherpa; those were present in the CAD model):
+
+![Day 1 image update](https://cloud-56t3p8blt-hack-club-bot.vercel.app/0image.png)

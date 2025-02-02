@@ -34,3 +34,15 @@ Mu Draconis:
   description: "A polar 3d printer with modern hardware, but still not the most practical"
   repository: "https://raw.githubusercontent.com/WilliamPrime/Mu-Draconis/refs/heads/main/design.md"
   file_name: mu-draconis.md
+
+Prism:
+  title: "Pr!sm"
+  description: "A cheap small 3d printer, a1 mini-like but open source."
+  repository: "https://raw.githubusercontent.com/Spectralo/prism/refs/heads/main/README.md"
+  file_name: pr!sm.md
+
+Aniprinter:
+  title: "Aniprinter"
+  description: "A cute anime 3d printer UwU."
+  repository: "https://raw.githubusercontent.com/cheyao/aniprinter/refs/heads/main/JOURNAL.md"
+  file_name: aniprinter.md
