@@ -13,11 +13,7 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: 'Getting Started',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Overview', slug: 'getting-started/overview' },
-						{ label: 'FAQ', slug: 'getting-started/faq' },
-					],
+					autogenerate: { directory: 'getting-started' },
 				},
 				{
 					label: 'Printers',
