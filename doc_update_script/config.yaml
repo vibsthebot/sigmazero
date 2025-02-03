@@ -58,3 +58,9 @@ Anixus Vex:
   description: "A powerful, fast, precise CoreXY 3D printer aimed at intense speed"
   repository: "https://raw.githubusercontent.com/invictus-anic3tus/anixus-vex/refs/heads/main/journal.md"
   file_name: anixus_vex.md
+
+pixl:
+  title: "pixl"
+  description: "A small corexy printer with a 180 mm cubed build volume"
+  repository: "https://raw.githubusercontent.com/vibsthebot/pixl/refs/heads/main/design.md"
+  file_name: pixl.md
