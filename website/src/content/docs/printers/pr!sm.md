@@ -21,6 +21,7 @@ These might change, i don't know if they're realizable :/
 - All 3d printed parts should fit on the a1 mini bed / pr!sm bed
 - Cool transparent PETG (It's called pr!sm after all)
 - Doesn't start on fire (that may be repeated on all printers, but that's still useful)
+- PLA/PETG/TPU printing as the a1 mini, we don't need something fancy
 
 ## Progress
 
