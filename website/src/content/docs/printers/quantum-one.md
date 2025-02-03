@@ -22,8 +22,9 @@ repository: "https://raw.githubusercontent.com/Echo-Labs-Development/Quantum-One
 | Date | Time |
 | -------- | -------- |
 | 2.1.25 | 2 Hours |
+| 2.2.25 | 4 Hours |
 
-### Total Hours: 2 Hours
+### Total Hours: 6 Hours
 
 ## BOM
  | Item Name | Link | Quanity | Price |
