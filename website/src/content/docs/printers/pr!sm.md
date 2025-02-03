@@ -26,7 +26,9 @@ These might change, i don't know if they're realizable :/
 ## Progress
 
 ### Bom
-_Time : 0 hours_
+_Time : 0.5 hours_
 
 Work in Progress
+
+[BOM Link](https://docs.google.com/spreadsheets/d/1s-rKp8JIC6NNX6ehk50LKkr_Xp8vp15-KQZ9M1hiGHo/edit?usp=sharing)
 
