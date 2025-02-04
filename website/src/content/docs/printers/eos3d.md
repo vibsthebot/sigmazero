@@ -61,3 +61,16 @@ Next, I imported the CAD models for the Sherpa Mini extruder and the E3D V6 hot
 By the end of the day, I refined the mounting system and securely integrated the Sherpa Mini with the mount. Below is the final design on day 1 (ignore the mesh issues on the Sherpa; those were present in the CAD model):
 
 ![Day 1 image update](https://cloud-56t3p8blt-hack-club-bot.vercel.app/0image.png)
+
+## Day 2 (February 2nd, 2025)
+
+Hours worked: **2**
+
+Total hours on project: **10**
+
+### Further Toolhead Development
+
+Today, I completed the connection of the toolhead to the linear bearings with inspiration from the Prusa Mini. I began modeling the cooling fan duct but encountered challenges in designing one that is both functional and aesthetically pleasing.
+
+Here is the final model of the day:
+![Day 2 image update](https://cloud-lfjnqsa5o-hack-club-bot.vercel.app/0image.png)

@@ -64,3 +64,15 @@ pixl:
   description: "A small corexy printer with a 180 mm cubed build volume"
   repository: "https://raw.githubusercontent.com/vibsthebot/pixl/refs/heads/main/design.md"
   file_name: pixl.md
+
+Veloce:
+  title: "Veloce"
+  description: "A powerful, fast, precise CoreXY 3D printer, to innovate on z-axis correction to get more reliable printing"
+  repository: "https://raw.githubusercontent.com/RR-CREATOR/Veloce/refs/heads/main/DESIGN.md"
+  file_name: veloce.md
+
+B0lta:
+  title: "B0lta"
+  description: "A fast, precise 3d printer with a large bed, aimed at size over speed"
+  repository: "https://github.com/AverseABFun/B0lta-printer/blob/main/JOURNAL-Arthur.md"
+  file_name: b0lta.md
